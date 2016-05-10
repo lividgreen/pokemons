@@ -1,3 +1,5 @@
-td, th {
+.poke-img {
+  width: 120px;
+  height: 120px;
   border: 1px solid black;
 }
